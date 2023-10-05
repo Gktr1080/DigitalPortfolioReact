@@ -16,7 +16,7 @@ function App() {
           <div>
             <h1 className="user-name">Gaurav Katiyar</h1>
             <p className="bio">
-              💻 I am a Btech student with majors in Computer Science from
+              💻 I am a B.Tech student with majors in Computer Science from
               Vellore Institute of Technology.
             </p>
             <p>👉 gauravkatiyar1080@gmail.com</p>
